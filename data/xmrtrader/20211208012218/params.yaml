@@ -1,0 +1,17 @@
+batch_size: 50
+comments_cap: null
+debug: true
+laps: 1
+output_dir: ./data/
+reddit_id: morbVonTKTrCf7tNzoKqIw
+reddit_username: AggressiveDig9109
+subreddit: xmrtrader
+total_comments_counter: 658
+total_counter: 708
+total_submissions_counter: 50
+utc_after: null
+utc_before: null
+utc_lower_bound: null
+utc_newer: 1638864069
+utc_older: 1638250864
+utc_upper_bound: null

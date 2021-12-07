@@ -1,0 +1,4 @@
+cd subreddit-comments-dl
+pip install -r requirements.txt
+python src/subreddit_downloader.py cryptocurrency --reddit-id morbVonTKTrCf7tNzoKqIw --reddit-secret iWSjDRpMHsdGGy2ey_MKiyIYt-imgg --reddit-username AggressiveDig9109 --batch-size 50 --laps 1 --debug
+python src/dataset_builder.py
